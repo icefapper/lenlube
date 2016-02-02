@@ -11,4 +11,8 @@ $ echo 0100000000000000000000000000000000000000001 | lenlube
 outputs: 0 1 1 40 1 (i.e, 1 zero, 1 one, 40 0's, and finally a 1; not again that its output always begins with a 0)
 
 
-if you want to know why the output always begins with a 0, drop me an e-mail with a suggestive pic of your girlfriend attached. (just kidding :grin: she needn't be your girlfriend.)
+
+if you are really willing to know why the output always begins with a 0, drop me an e-mail with a suggestive pic of your girlfriend attached. 
+
+just kidding :wink: 
+she needn't be your girlfriend.
